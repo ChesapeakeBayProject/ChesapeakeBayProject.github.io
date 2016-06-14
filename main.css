@@ -1,0 +1,72 @@
+body {
+	background-image: url("http://trulinelineardrain.com/images/black-grey.jpg");
+	width: 70%;
+	margin: auto;
+	color: white;
+}
+#head_h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.75em;
+	text-align: center;
+}
+#head_h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+}
+#src_code_h5 {
+	font-size: 1.2em;
+	text-align: center;
+	font-family: Verdana;
+	margin: auto;
+	color: #cccccc;
+}
+#src_code_link {
+	text-decoration: underline;
+	font-family: Verdana;
+}
+#src_code_link:hover {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Verdana;
+}
+#src_code_link:visited {
+	color: #cccccc;
+	text-decoration: underline;
+	font-family: Verdana;
+}
+.intro {
+	font-family: Verdana;
+	text-align: center;
+}
+.input_div {
+	margin: auto;
+	background-color: #0098fa;
+	border-radius: 12px;
+	width: 45%;
+	height: 8.4em;
+	border: 3.2px solid #00007a;
+	clear: none;
+	margin: auto;
+}
+#input_div_left {
+	margin: auto;
+	float: left;
+	float: top;
+}
+#input_div_right {
+	margin: auto;
+	float: right;
+	float: top;
+}
+.input_h3 {
+	font-family: 'Montserrat';
+	font-size: 1.7em;
+	text-align: center;
+	margin: auto;
+	color: #000000;
+}
+.input_span {
+	cursor: pointer;
+}
