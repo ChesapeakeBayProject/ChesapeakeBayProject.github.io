@@ -70,3 +70,10 @@ body {
 .input_span {
 	cursor: pointer;
 }
+#output {
+	clear: both;
+}
+.output {
+	font-family: Verdana;
+	list-style: none;
+}
