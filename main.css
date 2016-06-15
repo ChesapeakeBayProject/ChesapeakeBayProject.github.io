@@ -84,5 +84,5 @@ li {
 }
 li:first-child {
 	background-color: #cc0000;
-	border: 2px solid #ff0000;
+	border: 2px solid white;
 }
