@@ -82,3 +82,6 @@ li {
 	margin-top: 0.8em;
 	margin-bottom: 0.8em;
 }
+li:first-child {
+	color; #cc0000;
+}
