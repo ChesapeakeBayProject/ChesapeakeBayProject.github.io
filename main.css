@@ -53,12 +53,10 @@ body {
 	margin-bottom: 3em;
 }
 #input_div_left {
-	margin: auto;
 	float: left;
 	float: top;
 }
 #input_div_right {
-	margin: auto;
 	float: right;
 	float: top;
 }
