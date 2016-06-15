@@ -79,3 +79,7 @@ body {
 	list-style: none;
 	margin: 0.5em 0em 0.5em 0em;
 }
+li {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
