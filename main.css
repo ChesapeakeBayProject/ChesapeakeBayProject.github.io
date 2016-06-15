@@ -19,7 +19,7 @@ body {
 	text-align: center;
 	font-family: Verdana;
 	margin: auto;
-	color: #cccccc;
+	color: #aaaaaa;
 }
 #src_code_link {
 	text-decoration: underline;
@@ -32,7 +32,7 @@ body {
 	font-family: Verdana;
 }
 #src_code_link:visited {
-	color: #cccccc;
+	color: #aaaaaa;
 	text-decoration: underline;
 	font-family: Verdana;
 }
@@ -81,8 +81,26 @@ body {
 li {
 	margin-top: 0.8em;
 	margin-bottom: 0.8em;
+	list-style: none;
+	font-family: Verdana;
+	font-size: 1em;
 }
-li:first-child {
+.output:first-child {
 	background-color: #cc0000;
-	border: 2px solid white;
+	border: 1.5px solid white;
+}
+#clear {
+	border-radius: 5px;
+	width: 19%;
+	height: 1.5em;
+	margin: auto;
+	background-color: #aa0000;
+	border: 2.4px solid white;
+	font-family: 'Montserrat';
+	font-size: 1.2em;
+	clear: both;
+}
+#clear_h3 {
+	text-align: center;
+	margin: auto;
 }
