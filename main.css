@@ -83,5 +83,5 @@ li {
 	margin-bottom: 0.8em;
 }
 li:first-child {
-	color: #0000ee;
+	background-color: black;
 }
