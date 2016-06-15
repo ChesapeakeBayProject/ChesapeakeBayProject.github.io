@@ -3,7 +3,6 @@ body {
 	width: 70%;
 	margin: auto;
 	color: white;
-	margin: 0.5em 0em 0.5em 0em;
 }
 #head_h1 {
 	font-family: 'Montserrat', sans-serif;
@@ -40,6 +39,7 @@ body {
 .intro {
 	font-family: Verdana;
 	text-align: center;
+	margin: 0.5em 0em 0.5em 0em;
 }
 .input_div {
 	margin: auto;
@@ -77,4 +77,5 @@ body {
 .output {
 	font-family: Verdana;
 	list-style: none;
+	margin: 0.5em 0em 0.5em 0em;
 }
