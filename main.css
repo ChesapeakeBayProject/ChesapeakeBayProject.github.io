@@ -104,6 +104,9 @@ li {
 	text-align: center;
 	margin: auto;
 }
+#clear_span {
+	cursor: pointer;
+}
 #calc_h1 {
 	font-family: 'Montserrat';
 	font-size: 1.5em;
