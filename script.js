@@ -13,7 +13,7 @@ $(document).ready(function() {
 		var wo_output_val_h_1 = Math.floor(18000000000000 / input_val / 17500);
 		$('.output').prepend("<li>Considering the density of nitrogen in the Chesapeake Bay is 5mg/L of water, that an oyster filters approximately 50 gallons of water a day, and that there is between 15 and 18 trillion gallons of water in the Bay, it would take between " + wo_output_val_l_1 + " and " + wo_output_val_h_1 + " oysters, " + input_val + " years to clean the Bay completely with its current amount of pollution and no continued rate of pollution.</li>");
 	});
-	$('#clear_h3').mouseenter(function() {
+	$('#clear_h3').click(function() {
 		$('#clear').fadeOut(1000);
 		$('.output li').fadeOut(400);
 	});
