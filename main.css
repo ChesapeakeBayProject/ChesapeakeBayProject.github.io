@@ -104,3 +104,18 @@ li {
 	text-align: center;
 	margin: auto;
 }
+#calc_h1 {
+	font-family: 'Montserrat';
+	font-size: 1.5em;
+}
+.calc_h4 {
+	font-family: 'Montserrat';
+	font-size: 1.3em;
+}
+.calc_p {
+	font-family: Verdana;
+	margin-top: 0.5em;
+}
+.calc_an {
+	margin-bottom: 0.5em;
+}
