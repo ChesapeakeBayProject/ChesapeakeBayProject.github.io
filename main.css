@@ -19,7 +19,7 @@ body {
 	text-align: center;
 	font-family: Verdana;
 	margin: auto;
-	color: #aaaaaa;
+	color: #cccccc;
 }
 #src_code_link {
 	text-decoration: underline;
@@ -32,7 +32,7 @@ body {
 	font-family: Verdana;
 }
 #src_code_link:visited {
-	color: #aaaaaa;
+	color: #cccccc;
 	text-decoration: underline;
 	font-family: Verdana;
 }
