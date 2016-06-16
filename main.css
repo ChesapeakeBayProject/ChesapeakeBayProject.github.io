@@ -46,7 +46,7 @@ body {
 	border-radius: 12px;
 	width: 45%;
 	height: 8.4em;
-	border: 3.2px solid #330099;
+	border: 3.2px solid #000066;
 	clear: none;
 	margin: auto;
 	margin-top: 1.5em;
@@ -116,7 +116,7 @@ li {
 .calc_h4 {
 	font-family: 'Montserrat';
 	font-size: 1.2em;
-	color: #3333ff;
+	color: #003366;
 }
 .calc_p {
 	font-family: Verdana;
