@@ -107,6 +107,8 @@ li {
 #calc_h1 {
 	font-family: 'Montserrat';
 	font-size: 1.5em;
+	text-decoration: underline;
+	text-align: center;
 }
 .calc_h4 {
 	font-family: 'Montserrat';
