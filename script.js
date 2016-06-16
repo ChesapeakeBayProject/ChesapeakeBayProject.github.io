@@ -17,7 +17,4 @@ $(document).ready(function() {
 		$('#clear').fadeOut(1000);
 		$('.output li').fadeOut(400);
 	});
-	$('#clear_h3').mouseleave(function() {
-		$('#clear').fadeIn(1000);
-	});
 });
